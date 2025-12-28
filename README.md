@@ -57,7 +57,7 @@ I have experience in full-stack development and have led multiple research proje
 | :--- | :--- | :--- | :--- |
 | **Under Review** | **Dual-Process Modeling of Online Review Helpfulness**<br>Analyzed 400K+ datasets using RoBERTa & Multilevel ZINB model to identify cognitive mechanisms in reviews. | *Electronic Commerce Research and Applications (SCIE)* | Co-Author |
 | **Submitted** | **Development and Evaluation of 'Lec-Q'**<br>A Two-Way Learning Support Service to Enhance Understanding of Online Lectures using WebRTC & RAG. | *HCI Korea 2026* | **1st Author** |
-| **Submitted** | **Neuro-Symbolic AI-based Dark Pattern Detection**<br>Proposed a system combining BERT and logic rules to assist elderly users in kiosk environments. | *ICROS 2025* | Co-Author |
+| **Published** | **Neuro-Symbolic AI-based Dark Pattern Detection**<br>Proposed a system combining BERT and logic rules to assist elderly users in kiosk environments. | *ICROS 2025* | Co-Author |
 | **Published** | **Development of 'PHOTATO'**<br>Photo Analysis-based Personalized Travel Recommendation System using CNN & TSP algorithm. | *Proceedings of HCI Korea 2025* | Co-Author |
 
 <br>
