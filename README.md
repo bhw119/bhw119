@@ -22,8 +22,8 @@ My primary research interests lie in **Artificial Intelligence (AI)**, **Deep Le
 I have experience in full-stack development and have led multiple research projects to solve real-world problems through data-driven approaches.
 
 - 🔭 **Current Focus:** Dual-Process Modeling in NLP, Education AI (Lec-Q), Dark Pattern Detection.
-- 🎓 **Education:** B.S. in Information Convergence (Expected Feb. 2026), GPA: 4.31/4.5 (Major).
-- 💼 **Experience:** Undergraduate Research Intern at **PADA Lab** (Process Automation & Data Analytics).
+- 🎓 **Education:** B.S. in Information Convergence (Expected Feb. 2026), GPA: **4.31/4.5 (Major)**.
+- 💼 **Experience:** Undergraduate Research Intern at PADA Lab (Process Automation & Data Analytics).
 
 <br>
 
