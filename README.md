@@ -62,7 +62,7 @@ My research centers on **label-efficient learning** — how models can generaliz
 | :--- | :--- | :--- | :--- |
 | **Published** | **Information Processing and Review Helpfulness in Online Platforms: A Dual-Process Perspective**<br>H. Park, P. Chung, **H. Park**, S. Jung, M. Cho | *IEEE Access (SCIE)*, 2026 | Co-Author |
 | **Under Review** | **When Does Systematic Processing Add Value? A Dual-Process Analysis of Review Helpfulness across Online Markets**<br>Analyzed 400K+ reviews across online markets using RoBERTa-based representations and a multilevel ZINB model.<br>**H. Park**, S. Jung, H. Park, M. Cho | *Electronic Commerce Research (Springer)* | **1st Author** |
-| **Submitted** | **실시간 온라인 강의 이해도 향상을 위한 양방향 학습 지원 서비스 'Lec-Q' 설계 및 구현**<br>WebRTC 기반 실시간 필기 공유 및 RAG 기반 AI Q&A 챗봇.<br>**박현우**, 천성윤, 유아름, 박규동 | *HCI Korea 2026* | **1st Author** |
+| **Published** | **실시간 온라인 강의 이해도 향상을 위한 양방향 학습 지원 서비스 'Lec-Q' 설계 및 구현**<br>WebRTC 기반 실시간 필기 공유 및 RAG 기반 AI Q&A 챗봇.<br>**박현우**, 천성윤, 유아름, 박규동 | *HCI Korea 2026* | **1st Author** |
 | **Published** | **고령자의 키오스크 환경에서 Neuro-Symbolic AI 기반 다크 패턴 탐지 및 사용자 보조 시스템 제안**<br>정수진, 박소영, **박현우**, 오민진, 조민수 | *제어로봇시스템학회 국내학술대회 (ICROS)*, 2025, pp. 958–959 | Co-Author |
 | **Published** | **사진 분석 여행 추천 시스템 'PHOTATO' 개발**<br>이하경, 고한비, 주은진, **박현우**, 천성윤, 전서연, 김용민, 김원준 | *한국 HCI 학회 학술대회*, 2025, pp. 1211–1215 | Co-Author |
 
