@@ -22,7 +22,7 @@ I am an M.S. student in **Applied Artificial Intelligence** at Kwangwoon Univers
 
 My research centers on **label-efficient learning** — how models can generalize from scarce supervision — with applications in **remote sensing time-series**, **process mining**, and **NLP**. I am also interested in when modern sequence architectures (attention, Transformers) actually pay off outside the large-data regime they were designed for.
 
-- 🎯 **Current Focus:** Few-shot learning for satellite time-series (IUCN Ecosystem Functional Group classification), federated learning for predictive process monitoring, dual-process modeling of online reviews.
+- 🎯 **Current Focus:** Hierarchy-informed few-shot learning for satellite time-series (IUCN Ecosystem Functional Group classification), federated learning for predictive process monitoring, dual-process modeling of online reviews.
 - 🎓 **Education:** M.S. in Applied AI (Mar. 2026 – Present) / B.S. in Data Science (Mar. 2020 – Feb. 2026), Major GPA **4.31 / 4.5**.
 - 🧪 **Experience:** Undergraduate Research Intern (Sep. 2024 – Feb. 2026) → Graduate Researcher (Mar. 2026 – Present) at **DA Lab**.
 
@@ -78,10 +78,12 @@ My research centers on **label-efficient learning** — how models can generaliz
 
 ### 🛰️ Few-Shot Learning for Ecosystem Classification
 > *Graduate Research @ DA Lab (Mar. 2026 – Present)*
-- **Goal:** Classify IUCN Global Ecosystem Typology **Ecosystem Functional Groups (EFGs)** from satellite time-series with only a handful of labeled samples per class.
-- **Data:** HLS (Harmonized Landsat–Sentinel-2) time-series over South Korea — 24 EFGs across 6 ecological realms.
-- **Approach:** Benchmarked transductive few-shot methods; developing ProtoNet variants over InceptionTime / Presto encoders with hierarchical margin losses and sibling-repulsion regularization for fine-grained, same-realm class separation.
-- **Output:** 1st-author paper at KIIE Spring Conference 2026.
+- **Goal:** Classify 24 IUCN Global Ecosystem Typology **Ecosystem Functional Groups (EFGs)** from one-year satellite time-series, with only **5 labeled samples** per unseen class.
+- **Data:** HLS (Harmonized Landsat–Sentinel-2) time-series of 24K sites over South Korea (122 time steps × 22 spectral channels).
+- **Insight:** Errors concentrate on EFG pairs within the same realm (e.g., permanent vs. seasonal stream). They share annual means but differ in the *timing* of seasonal events, and global average pooling (GAP) over time erases exactly that timing.
+- **Approach:** Uses the GET hierarchy as a design input: a **realm-margin loss** during training and **SegPool**, a training-free calendar-segment pooling that replaces GAP at inference, on an InceptionTime encoder with transductive **α-TIM** refinement.
+- **Results:** 5-way 5-shot accuracy **79.0% → 84.4%** over 11 class splits × 8 seeds (gain positive in all 88 units); same-realm confusion reduced in every split containing same-realm pairs.
+- **Output:** 1st-author paper at KIIE Spring Conference 2026 (transductive few-shot benchmark).
 
 ### 🏥 Federated Learning for Predictive Process Monitoring
 > *Graduate Research @ DA Lab (Mar. 2026 – Present)*
