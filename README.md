@@ -61,7 +61,7 @@ My research centers on **label-efficient learning** — how models can generaliz
 #### Journal Articles
 | Status | Title | Venue | Role |
 | :--- | :--- | :--- | :--- |
-| **Accepted** | **Transductive Few-shot Learning for Ecosystem Classification from Satellite Time Series: A Systematic Study**<br>Systematic study of transductive few-shot methods for IUCN EFG classification from HLS satellite time-series.<br>M. Cho, **H. Park**, D. Park, G. Park, S. Park | *Expert Systems With Applications (SCIE)*, 2026 | **2nd Author** |
+| **In Press** | **[Transductive Few-shot Learning for Ecosystem Classification from Satellite Time Series: A Systematic Study](https://www.sciencedirect.com/science/article/pii/S0957417426036651)**<br>Systematic study of transductive few-shot methods for IUCN EFG classification from HLS satellite time-series.<br>M. Cho, **H. Park**, D. Park, G. Park, S. Park | *Expert Systems With Applications (SCIE)*, 134761, 2026<br>[doi:10.1016/j.eswa.2026.134761](https://doi.org/10.1016/j.eswa.2026.134761) | **2nd Author** |
 | **Under Review** | **When Does Systematic Processing Add Value? A Dual-Process Analysis of Review Helpfulness across Online Markets**<br>Analyzed 400K+ reviews across four online markets using RoBERTa-based features and a multilevel ZINB model.<br>**H. Park**, S. Jung, H. Park, M. Cho | *Electronic Commerce Research (Springer)* | **1st Author** |
 | **Published** | **Information Processing and Review Helpfulness in Online Platforms: A Dual-Process Perspective**<br>H. Park, P. Chung, **H. Park**, S. Jung, M. Cho | *IEEE Access (SCIE)*, 2026 | Co-Author |
 
@@ -84,7 +84,7 @@ My research centers on **label-efficient learning** — how models can generaliz
 - **Insight:** Errors concentrate on EFG pairs within the same realm (e.g., permanent vs. seasonal stream). They share annual means but differ in the *timing* of seasonal events, and global average pooling (GAP) over time erases exactly that timing.
 - **Approach:** Uses the GET hierarchy as a design input: a **realm-margin loss** during training and **SegPool**, a training-free calendar-segment pooling that replaces GAP at inference, on an InceptionTime encoder with transductive **α-TIM** refinement.
 - **Results:** 5-way 5-shot accuracy **79.0% → 84.4%** over 11 class splits × 8 seeds (gain positive in all 88 units); same-realm confusion reduced in every split containing same-realm pairs.
-- **Output:** 2nd-author paper accepted in *Expert Systems With Applications* (SCIE, 2026) — systematic study of transductive few-shot learning; 1st-author paper at KIIE Spring Conference 2026 (transductive few-shot benchmark).
+- **Output:** 2nd-author paper in press at [*Expert Systems With Applications*](https://doi.org/10.1016/j.eswa.2026.134761) (SCIE, 2026) — systematic study of transductive few-shot learning; 1st-author paper at KIIE Spring Conference 2026 (transductive few-shot benchmark).
 
 ### 🏥 Federated Learning for Predictive Process Monitoring
 > *Graduate Research @ DA Lab (Mar. 2026 – Present)*
