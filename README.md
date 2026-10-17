@@ -115,12 +115,6 @@ My research centers on **label-efficient learning** — how models can generaliz
   <a href="https://scholar.google.com/citations?user=u-RiUB0AAAAJ&hl=ko">
     <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
-  <a href="https://open.kakao.com/o/sjuqiI3f">
-    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk" alt="KakaoTalk"/>
-  </a>
-  <a href="https://www.instagram.com/_hyunvv00">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 </div>
