@@ -22,7 +22,7 @@ I am an M.S. student in **Applied Artificial Intelligence** at Kwangwoon Univers
 
 My research centers on **label-efficient learning** — how models can generalize from scarce supervision — with applications in **remote sensing time-series**, **process mining**, and **NLP**. I am also interested in when modern sequence architectures (attention, Transformers) actually pay off outside the large-data regime they were designed for.
 
-- 🎯 **Current Focus:** Hierarchy-informed few-shot learning for satellite time-series (IUCN Ecosystem Functional Group classification), federated learning for predictive process monitoring, dual-process modeling of online reviews.
+- 🎯 **Current Focus:** Hierarchy-informed few-shot learning for satellite time-series (IUCN Ecosystem Functional Group classification) and dual-process modeling of online review helpfulness.
 - 🎓 **Education:** M.S. in Applied AI (Mar. 2026 – Present) / B.S. in Data Science (Mar. 2020 – Feb. 2026), Major GPA **4.31 / 4.5**.
 - 🧪 **Experience:** Undergraduate Research Intern (Sep. 2024 – Feb. 2026) → Graduate Researcher (Mar. 2026 – Present) at **DA Lab**.
 
@@ -86,11 +86,14 @@ My research centers on **label-efficient learning** — how models can generaliz
 - **Results:** 5-way 5-shot accuracy **79.0% → 84.4%** over 11 class splits × 8 seeds (gain positive in all 88 units); same-realm confusion reduced in every split containing same-realm pairs.
 - **Output:** 2nd-author paper in press at [*Expert Systems With Applications*](https://doi.org/10.1016/j.eswa.2026.134761) (SCIE, 2026) — systematic study of transductive few-shot learning; 1st-author paper at KIIE Spring Conference 2026 (transductive few-shot benchmark).
 
-### 🏥 Federated Learning for Predictive Process Monitoring
-> *Graduate Research @ DA Lab (Mar. 2026 – Present)*
-- **Goal:** Predict ED-to-inpatient admission from emergency department event logs without centralizing patient data.
-- **Data:** MIMICEL v2.1.0 (MIMIC-IV ED event logs, ~425K cases).
-- **Findings:** Compared FedAvg / FedProx / Ditto / SCAFFOLD under realistic label skew across sites; FedProx's advantage grows monotonically with heterogeneity.
+### 💬 Dual-Process Modeling of Online Review Helpfulness
+> *Undergraduate Research @ DA Lab (Sep. 2024 – Feb. 2026)*
+- **Goal:** Explain *why* some online reviews are judged helpful by modeling the cognitive route readers take, rather than only predicting helpfulness votes.
+- **Data:** 400K+ reviews across four online markets with different product types: Amazon, Booking.com, Audible, and Coursera.
+- **Framework:** Grounded in **Dual-Process Theory**, separating *systematic* cues (e.g., review depth, topic breadth) from *heuristic* cues (e.g., rating deviation, recency).
+- **Methods:** **RoBERTa**-based representations for emotional arousal and **NMF** topic modeling for breadth; **PLS-SEM** for latent construct validation; a **multilevel zero-inflated negative binomial (ZINB)** model to handle zero-inflated vote counts and item-level heterogeneity.
+- **Findings:** Systematic cues drive helpfulness consistently across all four domains, while heuristic cues matter more on experience-goods platforms (e.g., Audible).
+- **Output:** Co-authored paper in [*IEEE Access*](https://doi.org/10.1109/ACCESS.2026.3701993) (SCIE, 2026); first-author extension under review at *Electronic Commerce Research*.
 
 ### 📚 Lec-Q: AI-based Interactive Learning Platform
 > *Project Lead & Main Developer (Sep. 2025 – Dec. 2025)*
