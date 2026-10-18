@@ -1,7 +1,7 @@
 # Hi there, I'm Hyunwoo Park! 👋
 
 ### 🚀 AI Researcher & Data Scientist
-**M.S. Student @ Kwangwoon Univ., Dept. of Applied Artificial Intelligence (Seoul, Korea)**
+**M.S. Student @ Kwangwoon Univ., Dept. of Applied Artificial Intelligence (Seoul, South Korea)**
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6648D1CC&text=&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=28&duration=3500&pause=3&color=6648D1CC&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=80&lines=Few-Shot+Learning,+Process+Mining,+and+Applied+AI;Precision+in+every+data+point.)](https://git.io/typing-svg)
@@ -68,15 +68,15 @@ My research centers on **label-efficient learning** — how models can generaliz
 #### Conference Presentations (International)
 | Status | Title | Venue | Role |
 | :--- | :--- | :--- | :--- |
-| **Accepted** | **Preserving Within-Year Temporal Structure in Prototypes for Few-Shot Ecosystem Classification from Satellite Image Time Series**<br>Hierarchy-informed prototypes (realm-margin loss + SegPool) that keep the timing of seasonal events for few-shot EFG classification.<br>**H. Park**, M. Cho | *The 26th Asia-Pacific Industrial Engineering and Management Systems Conference ([APIEMS 2026](https://www.apiems2026.org))*, BPEX, Busan, Korea, Nov. 29 – Dec. 2, 2026 | **1st Author** |
+| **Accepted** | **Preserving Within-Year Temporal Structure in Prototypes for Few-Shot Ecosystem Classification from Satellite Image Time Series**<br>Hierarchy-informed prototypes (realm-margin loss + SegPool) that keep the timing of seasonal events for few-shot EFG classification.<br>**H. Park**, M. Cho | *The 26th Asia-Pacific Industrial Engineering and Management Systems Conference ([APIEMS 2026](https://www.apiems2026.org))*, Busan, South Korea, Nov. 29 – Dec. 2, 2026 | **1st Author** |
 
 #### Conference Papers (Domestic)
 | Status | Title | Venue | Role |
 | :--- | :--- | :--- | :--- |
-| **Published** | **[제한된 레이블 환경에서의 HLS 위성 시계열 기반 생태계 기능군 분류를 위한 Transductive Few-Shot Learning 기법 비교](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12935537)**<br>*(Comparing Transductive Few-Shot Learning Methods for HLS Time-Series Based EFG Classification)*<br>**박현우**, 박도현, 조민수 | *대한산업공학회 춘계공동학술대회 (KIIE)*, 경주 화백컨벤션센터, 2026.06.04–05, pp. 641–644 | **1st Author** |
-| **Published** | **[실시간 온라인 강의 이해도 향상을 위한 양방향 학습 지원 서비스 'Lec-Q' 설계 및 구현](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12745960)**<br>WebRTC 기반 실시간 필기 공유 및 RAG 기반 AI Q&A 챗봇.<br>**박현우**, 천성윤, 유아름, 박규동 | *한국 HCI 학회 학술대회 (HCI Korea)*, 홍천 소노벨 비발디파크, 2026.01.26–28, pp. 1288–1292 | **1st Author** |
-| **Published** | **[고령자의 키오스크 환경에서 Neuro-Symbolic AI 기반 다크 패턴 탐지 및 사용자 보조 시스템 제안: 인간-로봇 상호작용을 중심으로](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313562)**<br>정수진, 박소영, **박현우**, 오민진, 조민수 | *제어로봇시스템학회 국내학술대회 (ICROS)*, 전주 전북대학교 국제컨벤션센터, 2025.06.25–27, pp. 958–959 | Co-Author |
-| **Published** | **[사진 분석 여행 추천 시스템 'PHOTATO' 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12131646)**<br>이하경, 고한비, 주은진, **박현우**, 천성윤, 전서연, 김용민, 김원준 | *한국 HCI 학회 학술대회 (HCI Korea)*, 홍천 소노벨 비발디파크, 2025.02.10–12, pp. 1211–1215 | Co-Author |
+| **Published** | **[제한된 레이블 환경에서의 HLS 위성 시계열 기반 생태계 기능군 분류를 위한 Transductive Few-Shot Learning 기법 비교](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12935537)**<br>*(Comparing Transductive Few-Shot Learning Methods for HLS Time-Series Based EFG Classification)*<br>**박현우**, 박도현, 조민수 | *대한산업공학회 춘계공동학술대회 (KIIE)*, Gyeongju, South Korea, 2026.06.04–05, pp. 641–644 | **1st Author** |
+| **Published** | **[실시간 온라인 강의 이해도 향상을 위한 양방향 학습 지원 서비스 'Lec-Q' 설계 및 구현](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12745960)**<br>WebRTC 기반 실시간 필기 공유 및 RAG 기반 AI Q&A 챗봇.<br>**박현우**, 천성윤, 유아름, 박규동 | *한국 HCI 학회 학술대회 (HCI Korea)*, Hongcheon, South Korea, 2026.01.26–28, pp. 1288–1292 | **1st Author** |
+| **Published** | **[고령자의 키오스크 환경에서 Neuro-Symbolic AI 기반 다크 패턴 탐지 및 사용자 보조 시스템 제안: 인간-로봇 상호작용을 중심으로](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313562)**<br>정수진, 박소영, **박현우**, 오민진, 조민수 | *제어로봇시스템학회 국내학술대회 (ICROS)*, Jeonju, South Korea, 2025.06.25–27, pp. 958–959 | Co-Author |
+| **Published** | **[사진 분석 여행 추천 시스템 'PHOTATO' 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12131646)**<br>이하경, 고한비, 주은진, **박현우**, 천성윤, 전서연, 김용민, 김원준 | *한국 HCI 학회 학술대회 (HCI Korea)*, Hongcheon, South Korea, 2025.02.10–12, pp. 1211–1215 | Co-Author |
 
 <br>
 
