@@ -68,7 +68,7 @@ My research centers on **label-efficient learning** — how models can generaliz
 #### Conference Presentations (International)
 | Status | Title | Venue | Role |
 | :--- | :--- | :--- | :--- |
-| **Accepted** | **Preserving Within-Year Temporal Structure in Prototypes for Few-Shot Ecosystem Classification from Satellite Image Time Series**<br>Hierarchy-informed prototypes (realm-margin loss + SegPool) that keep the timing of seasonal events for few-shot EFG classification.<br>**H. Park** et al. | *Asia-Pacific Industrial Engineering and Management Systems Conference ([APIEMS 2026](https://www.apiems2026.org))*, Busan, Korea, Nov. 29 – Dec. 2, 2026 | **1st Author** |
+| **Accepted** | **Preserving Within-Year Temporal Structure in Prototypes for Few-Shot Ecosystem Classification from Satellite Image Time Series**<br>Hierarchy-informed prototypes (realm-margin loss + SegPool) that keep the timing of seasonal events for few-shot EFG classification.<br>**H. Park**, M. Cho | *The 26th Asia-Pacific Industrial Engineering and Management Systems Conference ([APIEMS 2026](https://www.apiems2026.org))*, Busan, Korea, Nov. 29 – Dec. 2, 2026 | **1st Author** |
 
 #### Conference Papers (Domestic)
 | Status | Title | Venue | Role |
